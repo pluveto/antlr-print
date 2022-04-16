@@ -1,0 +1,12 @@
+T__0=1
+T__1=2
+T__2=3
+PRINT=4
+ID=5
+STRING=6
+NUMBER=7
+WS=8
+'='=1
+'true'=2
+'false'=3
+'print'=4

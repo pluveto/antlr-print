@@ -1,0 +1,7 @@
+print   "hello, world!"
+print   false
+print   100
+mystr   = "hi"
+print   mystr
+mystr2  = mystr
+print   mystr2
